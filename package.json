@@ -1,0 +1,8 @@
+{
+    "name": "iot-chain",
+    "version": "1.0.0",
+    "dependencies": {
+      "web3": "^1.6.1",
+      "schnorr-signature-lib": "^1.0.0" 
+    }
+  }
